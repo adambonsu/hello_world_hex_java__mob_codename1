@@ -1,0 +1,44 @@
+fileignoreconfig:
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Send Android Build.launch
+  checksum: a9cde4191b495828c8a75d297d062d5cd94ad9e5971f96663ef24dc7aa186c56
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Build Android Studio Project.launch
+  checksum: e63466f549e592fa1808337592c357a94bafa6cd95fc60b29d2b63421c4ee1f2
+- filename: .mvn/wrapper/MavenWrapperDownloader.java
+  checksum: b56a8fe7f523cc0f69c4f4f3730a2c4b95d4ed5d6cb084d6d5e9bc54c24a6aa2
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Build JavaSE Desktop App.launch
+  checksum: eb7c538148631f0677007e01f231c86245ac24310f1c94ad2daa5a14e4e3890f
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Build iOS Xcode Project.launch
+  checksum: becc06c975b211de87fcbc71ad60b1ee667c4f07677090ed87493193a7db6a6e
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Debug Simulator.launch
+  checksum: 9c3bee0d817c2908f2a3a149c55ef639669829363c817680e5cbf0837010f65d
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Send Javascript Build.launch
+  checksum: 3285fdb392db55afe1ce63e6682936ca33a94b54d010fc89512ad6b927a2bce3
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Debug in Simulator.launch
+  checksum: a50ddcbbc3f01c44cd0bb3864ae72418785983ed06163f2c603c6badbf978dc8
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Remote Debug Simulator.launch
+  checksum: 704784f5f4a667ce36e23b24e3533339e88f1c2d7e9328ebe2a66af32915a42c
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Run Desktop.launch
+  checksum: 08471d01922e143cd03ce20cf3aa0d61d209206500ea8dfb4e98e7341776ddcb
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Run Simulator.launch
+  checksum: ece071e5b55ed512f82cc99a4807d32f7d4a0c7f7cbd784788e61aa5f6fe750b
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Send Mac Desktop Build.launch
+  checksum: 67751109709de5de5067f352c3c1a395e5415022178be87449445ee13a06e661
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Send Windows Desktop Build.launch
+  checksum: 53f36bdb7ee33b3f2c538876b8702fe0ad26448bc29059583d9b08200b65fc2b
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Send Windows UWP Build.launch
+  checksum: 0e8e552e5fbc3b488f9ec459c85b952802d7dc4b102f3c020fd88555866a4c84
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Send iOS Debug Build.launch
+  checksum: 72ae29487868c7d2a62892f7e9f4bc2d533093e9f76cb25d8fef90df8d6611ac
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Send iOS Release Build.launch
+  checksum: 58353eef7ceb375e5dfa373a3d7d8806bdc49089e72fea59dd421a37858c2a8e
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne - Update Codename One.launch
+  checksum: aae72b71fa51325d9ee589a0a04e103e72a131797e02b4325097979196d531e0
+- filename: tools/eclipse/HelloWorldHexJavaCodenameOne Settings.launch
+  checksum: 1865b2b51c261912670876743df23e5a2a4344274ea8ffbecf32a8d9dbf52fd8
+- filename: javase/src/desktop/java/com/example/helloworld/HelloWorldHexJavaCodenameOneStub.java
+  checksum: 0979882f07cb8d09ca45e7915c0d9ee02c370c838e280954a22263f582e14f73
+- filename: mvnw
+  checksum: 0e2d98bd3c62babc8c3bbb16a28a5b4fd47662e629079cf9e77924e23335709d
+- filename: javase/pom.xml
+  checksum: 4d3688751dffaf5bf312a367794b070410d04a54b7208542849e928ea2cdc612
+version: ""
