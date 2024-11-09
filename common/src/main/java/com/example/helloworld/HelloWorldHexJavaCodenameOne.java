@@ -18,9 +18,4 @@ public class HelloWorldHexJavaCodenameOne extends Lifecycle {
         Form greeting = new Form("Hello World", BoxLayout.y());
         greeting.show();
     }
-
-    private void hello() {
-        Dialog.show("Hello Codename One", "Welcome to Codename One", "OK", null);
-    }
-
 }
