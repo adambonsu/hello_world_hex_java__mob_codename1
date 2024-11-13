@@ -18,11 +18,7 @@ public class HelloWorldHexJavaCodenameOne extends Lifecycle {
     public void runApp() {
         GreetingRepository greetingRepository = new InMemoryGreetingRepository();
         GreetingUseCase greetingService = new GreetingService(greetingRepository);
-        String title = greetingService.greet("World").getMessage();
-        Form greeting = new Form(title, BoxLayout.y());
-        // GreetingRepository greetingRepository = new InMemoryGreetingRepository();
-        // GreetingUseCase greetingUseCase = new GreetingService(greetingRepository);
-        // Form greeting = new Form(greetingUseCase.sayHello("World").getMessage(), BoxLayout.y());
+        Form greeting = new Form(greetingService.greet("Makeda").getMessage(), BoxLayout.y());
         greeting.show();
     }
 }
