@@ -10,6 +10,13 @@
     <artifactId>helloworldhexjavacodenameone-common</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <repositories>
+        <repository>
+            <id>github</id>
+            <name>GitHub OWNER Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/adambonsu/hello_world_hex_java</url>
+        </repository>
+    </repositories>
 
     <!-- Add your cn1lib dependencies to this section -->
     <dependencies>
@@ -20,6 +27,12 @@
         </dependency>
 
         <!-- INJECT DEPENDENCIES -->
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>helloworldhexjava</artifactId>
+            <version>1.1.0</version>
+        </dependency>
+        
     </dependencies>
 
     <!-- The following are profiles to cover special cases -->
