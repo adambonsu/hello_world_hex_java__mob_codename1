@@ -3,7 +3,6 @@ package com.example.helloworld;
 import com.codename1.system.Lifecycle;
 import com.codename1.ui.*;
 import com.codename1.ui.layouts.*;
-import com.example.adaptors.input.CliAdaptor;
 import com.example.adaptors.output.InMemoryGreetingRepository;
 import com.example.core.GreetingService;
 import com.example.core.ports.input.GreetingUseCase;
