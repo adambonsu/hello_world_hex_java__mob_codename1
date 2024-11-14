@@ -65,6 +65,7 @@ node_modules
 **/genfiles.properties
 **/private/private.properties
 .idea/
+.vscode/
 target
 pom.xml.versionsBackup
 pom.xml.releaseBackup
